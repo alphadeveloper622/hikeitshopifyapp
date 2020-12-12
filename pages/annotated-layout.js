@@ -10,6 +10,7 @@ import {
     Stack,
     TextField,
     TextStyle,
+    Caption, DropZone,Thumbnail,
   } from '@shopify/polaris';
   
   class AnnotatedLayout extends React.Component {
